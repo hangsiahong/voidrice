@@ -1,0 +1,1 @@
+/home/edison/.fzf/shell/key-bindings.fish

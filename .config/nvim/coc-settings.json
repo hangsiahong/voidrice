@@ -1,0 +1,11 @@
+{
+  "rust-analyzer.cargo-watch.enable": false,
+  "languageserver": {
+    "bash": {
+      "command": "bash-language-server",
+      "args": ["start"],
+      "filetypes": ["sh"],
+      "ignoredRootPaths": ["~"]
+    }
+  }
+}
